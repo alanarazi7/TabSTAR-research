@@ -15,7 +15,7 @@ The main scripts provided are:
 - `do_finetune` which finetunes a pretrained TabSTAR model on a downstream task.
 - `do_baseline` which runs a baseline model on a downstream task.
 
-<img src="tabstar_arch.png" alt="TabSTAR Arch" width="200%">
+<img src="tabstar_arch.png" alt="TabSTAR Arch" width="100%">
 
 
 To pretrain TabSTAR, run the following command, controlling for the number of datasets:
