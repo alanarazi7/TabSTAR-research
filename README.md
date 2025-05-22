@@ -1,4 +1,4 @@
-![TabSTAR Logo](tabstar_logo.png)
+<img src="tabstar_logo.png" alt="TabSTAR Logo" width="50%">
 
 **Welcome to the TabSTAR Research repo!**
 
